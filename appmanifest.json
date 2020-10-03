@@ -1,6 +1,6 @@
 ﻿{
-	"name": "CardGame",
-	"short_name": "CardGame",
+	"name": "Pixel Folks",
+	"short_name": "Pixel Folks",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
